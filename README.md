@@ -11,25 +11,13 @@
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-  <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted-md?style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted-md?label=Watching&style=social"></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+.gif'/></a>
   
 ## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
 
 **👇FORK REPO(A MUST)**
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
-  
-- This is essential for you to obtain an editable repo to **[upload](https://github.com/PROFESSOR45-jpg/PROFESSOR-MD/fork)** your creds.json file
 
 <a href="https://github.com/PROFESSOR45-jpg/PROFESSOR-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
