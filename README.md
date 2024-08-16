@@ -42,8 +42,6 @@
 
 </details>
 
-- Then **[Upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file in the **[session folder](https://github.com/mouricedevs/Gifted-Md/
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟑. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍:
