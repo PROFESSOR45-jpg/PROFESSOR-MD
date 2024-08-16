@@ -29,9 +29,9 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- This is essential for you to obtain an editable repo to **[upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file
+- This is essential for you to obtain an editable repo to **[upload](https://github.com/PROFESSOR45-jpg/PROFESSOR-MD/fork)** your creds.json file
 
-<a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/PROFESSOR45-jpg/PROFESSOR-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
